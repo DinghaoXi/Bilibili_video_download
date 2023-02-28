@@ -80,10 +80,6 @@ python bilili-dl.py <url>
 
 默认生成**相对路径类型**的 **`PotPlayer`** 播放列表，如果你不想使用 `PotPlayer` 的话，可以通过参数来修改
 
-## Blog
-
-具体实现见[使用 Python 爬取 B 站视频](https://www.sigure.xyz/Posts/17_bilili_dl.html)
-
 # Reference
 
 1. [Bilibili - 1033020837](https://github.com/1033020837/Bilibili)
