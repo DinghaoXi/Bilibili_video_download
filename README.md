@@ -62,6 +62,10 @@ python bilili-dl.py <url>
 
 ## Tips
 
+### 分辨率问题
+
+如果没法下载到想要的分辨率，可能是需要cookies，请修改一下common文件夹里面的crawler.py的 class BililiCrawler(Crawler)的 header的cookie信息
+
 ### Danmaku
 
 默认会下载 XML 格式的弹幕，如果想使用 ASS 格式的弹幕（大多数播放器都支持，可以自动加载），可以加参数 `--ass` 自动转换，或者手动在[us-danmaku](https://tiansh.github.io/us-danmaku/bilibili/)转换
