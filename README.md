@@ -1,8 +1,8 @@
-# bilili-dl
+# Bilibili_video_download
 
 ![python 3.6.7](https://img.shields.io/badge/python-3.6.7-green?style=flat-square&logo=python)
 
-使用 Python 下载 [B 站](https://www.bilibili.com/)视频，bilililili~
+使用 Python 下载 [B 站](https://www.bilibili.com/)视频，bilililili~ 2023-02-28可用
 
 > 仅限个人学习和研究使用，切勿用于其他用途
 
